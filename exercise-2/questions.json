@@ -1,0 +1,52 @@
+{
+	"1": {
+		"text": "What is the best way of making all images in the slideshow in lab 8 the same size?",
+		"answers": {
+			"a": "Crop the edges of the images, cutting off important parts",
+			"b": "Stretch the images, making them look distorted",
+			"c": "Frame them is a consistently sized box that makes them as big as possible without either of the above flaws",
+			"d": "Only include one image"
+		},
+		"correctAnswer": "c"
+	},
+	"2": {
+		"text": "What is thing I least deserved to miss points for?",
+		"answers": {
+			"a": "In-Class Problem 9/18, where I said our project 1 does not have a build process (which is true)",
+			"b": "Lab 8 Exercise 3, where I made the images fit using the answer to question 1",
+			"c": "Project 2 user interface, where a restart game button was not part of the requirements",
+			"d": "Lab 4, where the amount of activities in the ATM scenerio was below the secret threshold"
+		},
+		"correctAnswer": "a"
+	},
+	"3": {
+		"text": "What are the chances the grader is reading these?",
+		"answers": {
+			"a": "0-30%",
+			"b": "30-60%",
+			"c": "60-90%",
+			"d": ">90%"
+		},
+		"correctAnswer": "b"
+	},
+	"4": {
+		"text": "What is not part of our project grades?",
+		"answers": {
+			"a": "Teamwork surveys",
+			"b": "Demo",
+			"c": "Tons of documentation",
+			"d": "The actual code"
+		},
+		"correctAnswer": "d"
+	},
+	"5": {
+		"text": "When will Project 3 be graded?",
+		"answers": {
+			"a": "After Project 4 is due (preventing any feedback from being incorporated)",
+			"b": "Over 3 weeks past its due date",
+			"c": "Before all of the in-class problems from October",
+			"d": "All of the above"
+		},
+		"correctAnswer": "d"
+	}
+}

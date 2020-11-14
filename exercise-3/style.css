@@ -1,0 +1,28 @@
+/* I don't have much I need to put in here since I used Bootstrap classes for styling (e.g. pt-0 for padding-top:0), but regardless this file is included on both pages */
+
+.no-width {
+	width: 0;
+	white-space: nowrap;
+}
+.spinner-border {
+	width: 3em;
+	height: 3em;
+}
+
+.receipt {
+	font-family: serif;
+	border-collapse: separate;
+}
+
+.receipt th, .receipt td {
+	border: 1px inset #aaa;
+}
+
+.receipt th {
+	background-color: #cfc;
+	text-align: center;
+}
+
+.receipt td {
+	background-color: #ccf;
+}
